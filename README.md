@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
+<div>
+  <a href="https://www.linkedin.com/in/emmet-tam/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div> 
 <!--
 **etam4260/etam4260** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
