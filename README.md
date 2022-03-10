@@ -5,6 +5,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div> 
+
+<br><br>
+
+<div>
+    <img src="https://komarev.com/ghpvc/?username=etam4260" alt="LinkedIn Badge"/>
+</div>  
+ 
 <!--
 **etam4260/etam4260** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
