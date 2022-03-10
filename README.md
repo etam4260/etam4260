@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div>
+<div align="center">
   <a href="https://www.linkedin.com/in/emmet-tam/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -8,7 +8,7 @@
 
 <br><br>
 
-<div>
+<div align="center">
     <img src="https://komarev.com/ghpvc/?username=etam4260" alt="LinkedIn Badge"/>
 </div>
 
